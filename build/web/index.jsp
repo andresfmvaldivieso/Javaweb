@@ -14,6 +14,7 @@
         <title>JSP Page</title>
     </head>
     <body>
+        <img src="img/logo.jpg" width="100px" height="50px"/>
         <form action="PaginaDos.jsp" method="post">
             <input type="text" name="nombre" Placeholder="Escriba su nombre" /></br>
             <input type="submit" value="Enviar" />
